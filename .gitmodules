@@ -1,0 +1,3 @@
+[submodule "libs/ol3"]
+	path = libs/ol3
+	url = https://github.com/openlayers/ol3.git
